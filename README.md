@@ -22,4 +22,21 @@ This varies per project, but most of the time, you'll need to install [git](http
 - **master branch** : The `master` branch in repositories should be the latest working development code. We are progressively adding protection for the branch on repositories, but whether it works and is enabled or not, please don't do things on it unless you're an admin, please make a new branch and make a pull request when you're ready to submit changes.
 - **Language** : Please stay polite and civil. This is a community-driven project, and everyone should feel welcome and comfortable.
 
-I think that's it!  Hexsphere, Ekmand, if you guys have anything to add, add it! 
+## :speech_balloon: Keeping the discussion organized
+
+You have an idea, question, report, request, or just wanna chat. Where should you write it?
+
+- **Feature/improvement requests and bug reports** for a specific project should go to the appropriate repository's Issues tab.
+- **General questions and long-term feature ideas** should go to the appropriate team's discussions.
+- **General organisational discussion**  should go into the Everyone team's discussions.
+- **General and off-topic chatting** should go to the Gitter chat, or to the appropriate Microsoft Teams channel.
+
+
+**If you need attention on your issue or PR**, please `cc` the appropriate teams/persons in your message or use the "Request review" feature.
+
+**Please stay on-topic in discussion threads**.
+
+We hope you'll help keep the project fun and useful, and make it even better!
+
+Thanks  
+the Scratch Client 4 team.
