@@ -38,6 +38,15 @@ You have an idea, question, report, request, or just wanna chat. Where should yo
 
 **Please stay on-topic in discussion threads**.
 
+## :notebook: Learning ressources
+
+Some things might be a bit new, or completely unknown to you. Here are great ressources to learn or perfect useful skills for contributing :
+
+- [GitHub Learning Lab](https://lab.github.com) offers courses to learn the GitHub workflow and other skills from a GitHub repository
+- [Scrimba](https://scrimba.com) offers interactive screencasts, where you can pause and edit the code at any moment, on a lot of different subjects
+- Some framework and language documentations are well-made for learning, like [LESS's](https://lesscss.org).
+- [W3Schools](https://w3schools.com) have complete coding courses, although they are more traditional written tutorials.
+
 ***We hope you'll help keep the project fun and useful, and make it even better!***
 
 Thanks,  
