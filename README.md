@@ -1,6 +1,6 @@
 # :book: Scratch Client 4 Contributing Guide
 
-:wave: Hey! Thanks for willing to contribute to Scratch Client 4, also know as SC4! This guide is here to explain:
+:wave: Hey! Thanks for willing to contribute to Scratch Client 4, also known as SC4! This guide is here to explain:
 
 - What SC4 _is_ and _isn't_ about
 - Best practices and general rules
