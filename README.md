@@ -18,7 +18,7 @@ Often, the nature of Scratch Client 4 projects are misunderstood.
 
 ## :art: Best practices and general rules
 
-- **Development environement** : You shouldn't edit things directly on GitHub. In order to make changes, please set up a local developement environement.
+- **Development environment** : You shouldn't edit things directly on GitHub. In order to make changes, please set up a local developement environement.
 This varies per project, but most of the time, you'll need to install [git](https://git-scm.com) and [Node.js](https://nodejs.org). Project-specific instructions can be found in their README files.  
 If you aren't comfortable with using the command line, we recommend you use [GitHub Desktop](https://desktop.github.com). You _may_ do edits directly on GitHub for really minor changes that don't need testing, like fixing a typo.
 - **Commit messages** : Please make commit messages that accurately represent the work done. If you've made multiple changes, sum them up in the first line, and list them in the extended description.  
